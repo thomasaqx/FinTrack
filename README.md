@@ -6,7 +6,7 @@
 
 ## 🎯 Objetivo
 
-Projeto pessoal focado em **fixar conceitos de programação**, concorrência em Go, e aplicar tecnologias usadas em ambientes profissionais. O foco é: **funcional, útil e que ensine de verdade**.
+Projeto pessoal focado em **fixar conceitos de programação**, e aplicar tecnologias usadas em ambientes profissionais.
 
 ---
 
